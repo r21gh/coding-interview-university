@@ -4,7 +4,6 @@
 
 ### The Study Plan
 
-- [How to use it](#how-to-use-it)
 - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
 - [A Note About Video Resources](#a-note-about-video-resources)
 - [Choose a Programming Language](#choose-a-programming-language)
