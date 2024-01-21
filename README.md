@@ -1,24 +1,5 @@
 # Coding Interview University
 
-
-- [اردو - Urdu](translations/README-ur.md)
-- [中文版本](translations/README-cn.md)
-- [Tiếng Việt - Vietnamese](translations/README-vi.md)
-- [Español](translations/README-es.md)
-- [Português Brasileiro](translations/README-ptbr.md)
-- [Polish](translations/README-pl.md)
-- [繁體中文](translations/README-tw.md)
-- [Japanese (日本語)](translations/README-ja.md)
-- [Russian](translations/README-ru.md)
-- [German](translations/README-de.md)
-- [Bahasa Indonesia](translations/README-id.md)
-- [ខ្មែរ - Khmer](translations/README-kh.md)
-- [Uzbek](translations/README-uz.md)
-- [Bulgarian](translations/README-bg.md)
-- [বাংলা - Bangla](translations/README-bn.md)
-
-</details>
-
 <details>
 <summary>Translations in progress:</summary>
 
