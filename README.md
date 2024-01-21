@@ -414,7 +414,7 @@ Alright, enough talk, let's learn!
 But don't forget to do coding problems from above while you learn!
 
 ## Algorithmic complexity / Big-O / Asymptotic analysis
-
+- [Youtube playlist link](https://youtube.com/playlist?list=PLhsUao6MOceEQBLTsMt7pRATkxuSe6uVm&si=K4_dmLIfSmkoRbne)
 - Nothing to implement here, you're just watching videos and taking notes! Yay!
 - There are a lot of videos here. Just watch enough until you understand it. You can always come back and review.
 - Don't worry if you don't understand all the math behind it.
